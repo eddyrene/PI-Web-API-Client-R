@@ -1,0 +1,7 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+samples
+dist
+build
+CONDUCT.md
+LICENSE.md
